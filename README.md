@@ -66,8 +66,6 @@ Sou uma **Desenvolvedora de Software / Front-End** apaixonada por criar interfac
 
 </div>
 
-*(Nota: Lembre-se de substituir `seu-email@gmail.com` no link do badge acima pelo seu e-mail real!)*
-
 ---
 
 <div align="center">
