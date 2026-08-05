@@ -93,10 +93,11 @@ Sou uma **Desenvolvedora de Software / Front-End** apaixonada por criar interfac
 
 <div align="center">
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=LeticiaMS89&theme=radical)](https://git.io/streak-stats)
-<br/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=LeticiaMS89&show_icons=true&theme=radical&include_all_commits=true&count_private=true" />
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LeticiaMS89&layout=compact&theme=radical" />
+  <!-- Streak de Commits (Instância Estável Demolab) -->
+  <img height="165em" src="https://streak-stats.demolab.com?user=LeticiaMS89&theme=radical" alt="GitHub Streak" />
+  
+  <!-- Linguagens Mais Usadas (Instância Espelho Backup) -->
+  <img height="165em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=LeticiaMS89&layout=compact&theme=radical" alt="Top Languages" />
 
 </div>
 
