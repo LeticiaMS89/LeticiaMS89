@@ -89,11 +89,14 @@ Sou uma **Desenvolvedora de Software / Front-End** apaixonada por criar interfac
 
 ---
 
-## 📊 Conquistas & Estatísticas
+## 📊 Estatísticas
 
 <div align="center">
 
-  <img src="https://github-profile-trophy.vercel.app/?username=LeticiaMS89&theme=onedark&column=4&margin-w=15" alt="Troféus GitHub" />
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=LeticiaMS89&theme=radical)](https://git.io/streak-stats)
+<br/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=LeticiaMS89&show_icons=true&theme=radical&include_all_commits=true&count_private=true" />
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LeticiaMS89&layout=compact&theme=radical" />
 
 </div>
 ---
