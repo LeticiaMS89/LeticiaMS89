@@ -89,14 +89,36 @@ Sou uma **Desenvolvedora de Software / Front-End** apaixonada por criar interfac
 
 ---
 
-## 📊 Estatísticas
+## 📊 Estatísticas & Destaques
 
 <div align="center">
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=LeticiaMS89&theme=radical)](https://git.io/streak-stats)
-<br/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=LeticiaMS89&show_icons=true&theme=radical&include_all_commits=true&count_private=true" />
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LeticiaMS89&layout=compact&theme=radical" />
+  <!-- Badges Nativas de Métricas -->
+  <a href="https://github.com/LeticiaMS89">
+    <img src="https://img.shields.io/github/stars/LeticiaMS89?style=for-the-badge&logo=github&color=8A2BE2&labelColor=181824" alt="Stars" />
+    <img src="https://img.shields.io/github/followers/LeticiaMS89?style=for-the-badge&logo=github&color=8A2BE2&labelColor=181824" alt="Followers" />
+    <img src="https://img.shields.io/github/directory-file-count/LeticiaMS89/LeticiaMS89?style=for-the-badge&logo=github&color=8A2BE2&labelColor=181824&label=profile" alt="Profile" />
+  </a>
+
+  <br/><br/>
+
+  <!-- Tabela Estilizada com Resumo Técnico -->
+  <table>
+    <tr>
+      <td align="center" width="33%">
+        <b>⚡ Foco Principal</b><br/>
+        <sub>Desenvolvimento Full Stack & Sistemas</sub>
+      </td>
+      <td align="center" width="33%">
+        <b>💻 Stack Base</b><br/>
+        <sub>JavaScript, React, Node.js, Python</sub>
+      </td>
+      <td align="center" width="33%">
+        <b>🚀 Repositórios Ativos</b><br/>
+        <sub>PlayFamily, ShopFamily, Gerador de Código</sub>
+      </td>
+    </tr>
+  </table>
 
 </div>
 ---
