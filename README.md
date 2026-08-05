@@ -93,11 +93,8 @@ Sou uma **Desenvolvedora de Software / Front-End** apaixonada por criar interfac
 
 <div align="center">
 
-  <!-- Estatísticas Gerais (Garantido sem quebras) -->
-  <img height="165em" src="https://github-readme-stats.vercel.app/api?username=LeticiaMS89&show_icons=true&theme=radical&include_all_commits=true&count_private=true" alt="Estatísticas do GitHub" />
-  
-  <!-- Linguagens Mais Usadas -->
-  <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LeticiaMS89&layout=compact&theme=radical" alt="Linguagens Mais Usadas" />
+  <!-- Painel de Métricas Unificado (Extremamente Estável) -->
+  <img src="https://github-profile-summary-cards.vercel.app/api/report?username=LeticiaMS89&theme=radical" alt="Estatísticas do GitHub" />
 
 </div>
 
