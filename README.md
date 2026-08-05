@@ -89,15 +89,13 @@ Sou uma **Desenvolvedora de Software / Front-End** apaixonada por criar interfac
 
 ---
 
-## 📊 Estatísticas
+## 📊 Conquistas & Estatísticas
 
 <div align="center">
 
-  <!-- Painel de Métricas Unificado (Extremamente Estável) -->
-  <img src="https://github-profile-summary-cards.vercel.app/api/report?username=LeticiaMS89&theme=radical" alt="Estatísticas do GitHub" />
+  <img src="https://github-profile-trophy.vercel.app/?username=LeticiaMS89&theme=onedark&column=4&margin-w=15" alt="Troféus GitHub" />
 
 </div>
-
 ---
 
 ## 🌟 O Que Você Encontrará Aqui
