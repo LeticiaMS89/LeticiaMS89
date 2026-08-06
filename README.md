@@ -1,4 +1,4 @@
-# 💻 Olá! Bem-vindo (a) ao meu perfil
+# 💻 Olá! Bem-vindo(a) ao meu perfil
 
 <div align="left">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=18&pause=1000&color=F7DF1E&width=500&lines=Desenvolvedora+Software;Estudante+de+ADS+%40+Est%C3%A1cio;Full+Stack+JavaScript+%2B+Python;Entusiasta+de+UI%2FUX+%26+Clean+Code" alt="Typing SVG" />
