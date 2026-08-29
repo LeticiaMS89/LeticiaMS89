@@ -85,6 +85,23 @@ Sou uma **Desenvolvedora de Software / Front-End** apaixonada por criar interfac
       </p>
     </td>
   </tr>
+  <tr>
+    <td width="50%">
+      <h3 align="center">📦 Sistema de Estoque e Logística</h3>
+      <p>Aplicação web para otimização de fluxo logístico, registro dinâmico de movimentações e inventário atualizado em tempo real.</p>
+      <p><b>Techs:</b> HTML5, CSS3 (Flexbox), JavaScript (Vanilla).</p>
+      <p align="center">
+        <a href="https://github.com/LeticiaMS89/sistema-de-estoque">📂 Ver Repositório</a>
+      </p>
+    </td>
+    <td width="50%">
+      <h3 align="center">🚀 Em Desenvolvimento...</h3>
+      <p>Mais projetos conectando tecnologia, eficiência operacional e regras de negócios estão a caminho!</p>
+      <p align="center">
+        <a href="https://github.com/LeticiaMS89">⭐ Acompanhar Perfil</a>
+      </p>
+    </td>
+  </tr>
 </table>
 
 ---
@@ -115,12 +132,13 @@ Sou uma **Desenvolvedora de Software / Front-End** apaixonada por criar interfac
       </td>
       <td align="center" width="33%">
         <b>🚀 Repositórios Ativos</b><br/>
-        <sub>PlayFamily, ShopFamily, Gerador de Código</sub>
+        <sub>PlayFamily, ShopFamily, Gerador, Sistema de Estoque</sub>
       </td>
     </tr>
   </table>
 
 </div>
+
 ---
 
 ## 🌟 O Que Você Encontrará Aqui
