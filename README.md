@@ -69,6 +69,14 @@ Sou uma **Desenvolvedora de Software / Front-End** apaixonada por criar interfac
   </tr>
   <tr>
     <td width="50%">
+      <h3 align="center">🤖 Desafio Criativo: Prompts com IA</h3>
+      <p>Resolução estruturada de engenharia de prompts da DIO. Criação de comandos otimizados e com foco em transição de carreira para ADS.</p>
+      <p><b>Techs:</b> Engenharia de Prompts (IA), Markdown, GitHub.</p>
+      <p align="center">
+        <a href="https://github.com/LeticiaMS89/desafio-prompt.md">📂 Ver Repositório</a>
+      </p>
+    </td>
+    <td width="50%">
       <h3 align="center">🛍️ ShopFamily</h3>
       <p>Landing page institucional de alta conversão para e-commerce familiar. Foco em UX/UI sofisticado em Dark Slate e microinterações.</p>
       <p><b>Techs:</b> HTML5 Semântico, CSS3 (Animações puras, Flexbox), Google Fonts.</p>
@@ -76,6 +84,8 @@ Sou uma **Desenvolvedora de Software / Front-End** apaixonada por criar interfac
         <a href="https://github.com/LeticiaMS89">📂 Ver Repositório</a>
       </p>
     </td>
+  </tr>
+  <tr>
     <td width="50%">
       <h3 align="center">⚔️ Criador de Heróis — Interface RPG</h3>
       <p>Aplicação imersiva estilo Dark Fantasy para criação de heróis utilizando Programação Orientada a Objetos (POO) e manipulação do DOM.</p>
@@ -84,21 +94,12 @@ Sou uma **Desenvolvedora de Software / Front-End** apaixonada por criar interfac
         <a href="https://github.com/LeticiaMS89">📂 Ver Repositório</a>
       </p>
     </td>
-  </tr>
-  <tr>
     <td width="50%">
       <h3 align="center">📦 Sistema de Estoque e Logística</h3>
       <p>Aplicação web para otimização de fluxo logístico, registro dinâmico de movimentações e inventário atualizado em tempo real.</p>
       <p><b>Techs:</b> HTML5, CSS3 (Flexbox), JavaScript (Vanilla).</p>
       <p align="center">
         <a href="https://github.com/LeticiaMS89/sistema-de-estoque">📂 Ver Repositório</a>
-      </p>
-    </td>
-    <td width="50%">
-      <h3 align="center">🚀 Em Desenvolvimento...</h3>
-      <p>Mais projetos conectando tecnologia, eficiência operacional e regras de negócios estão a caminho!</p>
-      <p align="center">
-        <a href="https://github.com/LeticiaMS89">⭐ Acompanhar Perfil</a>
       </p>
     </td>
   </tr>
@@ -132,7 +133,7 @@ Sou uma **Desenvolvedora de Software / Front-End** apaixonada por criar interfac
       </td>
       <td align="center" width="33%">
         <b>🚀 Repositórios Ativos</b><br/>
-        <sub>PlayFamily, ShopFamily, Gerador, Sistema de Estoque</sub>
+        <sub>PlayFamily, ShopFamily, Gerador, Sistema de Estoque, Desafios IA</sub>
       </td>
     </tr>
   </table>
