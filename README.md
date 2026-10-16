@@ -2,7 +2,7 @@
 
   <!-- Banner de Título com Animação Typographic / Futuristic -->
   <h1>⚡ LETICIA MOREIRA ⚡</h1>
-  <h3>💻 Full-Stack Software Engineer Júnior</h3>
+  <h3>💻 Desenvolvedora Full-Stack Júnior</h3>
 
   <p align="center">
     <b>Transformando regras de negócio complexas em aplicações web performáticas, PWAs desacoplados e sistemas gamificados.</b>
@@ -73,18 +73,41 @@ PHILOSOPHY: "Código limpo não é apenas legível — é seguro, acessível e r
 <table width="100%">
   <tr>
     <td width="50%" valign="top">
-      <h3>🏠 FamilyTask / Casa em Ordem (PWA)</h3>
-      <p>Progressive Web App para gestão familiar com conquistas gamificadas, metas de hidratação, cache local offline-first e sincronização em tempo real.</p>
+      <h3>⚔️ Classificador de Nível de Herói</h3>
+      <p>O Classificador de Heróis é uma aplicação web interativa que calcula e atribui patentes a aventureiros com base no XP acumulado. Desenvolvido com HTML5, CSS3 e JavaScript ES6+, possui interface temática de RPG, barra de progresso para o próximo nível, validações em tempo real, acessibilidade (WCAG) e arquitetura baseada em Clean Code.</p>
       <p>
-        <img src="https://img.shields.io/badge/PWA-Offline--First-5A0FC8?style=flat-square" />
-        <img src="https://img.shields.io/badge/JavaScript-ES6%2B-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
-        <img src="https://img.shields.io/badge/Tailwind-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white" />
+        <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
+        <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" />
+        <img src="https://img.shields.io/badge/JS_ES6%2B-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
+        <img src="https://img.shields.io/badge/Clean_Code-000000?style=flat-square" />
       </p>
-      <a href="https://github.com/LeticiaMS89/casa-em-ordem">👉 Explorar o Repositório</a>
+      <a href="https://github.com/LeticiaMS89">👉 Explorar o Repositório</a>
+    </td>
+    <td width="50%" valign="top">
+      <h3>🏆 Calculadora de Partidas Rankeadas</h3>
+      <p>Calculadora interativa de partidas ranqueadas desenvolvida em HTML5, CSS3 e JavaScript ES6+. Calcula o saldo de ganhos e determina a patente do jogador (de Ferro a Imortal) com emblemas animados e iluminação neon (glow). Inclui validação de dados sem brechas numéricas, layout responsivo e suporte a acessibilidade web (A11y/WCAG).</p>
+      <p>
+        <img src="https://img.shields.io/badge/Algoritmo-Classifica%C3%A7%C3%A3o-6366f1?style=flat-square" />
+        <img src="https://img.shields.io/badge/CSS3-Neon_Glow-ec4899?style=flat-square" />
+        <img src="https://img.shields.io/badge/A11y-WCAG-8b5cf6?style=flat-square" />
+      </p>
+      <a href="https://github.com/LeticiaMS89">👉 Explorar o Repositório</a>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>🧙‍♂️ Criador de Heróis (RPG Interface)</h3>
+      <p>Interface web imersiva estilo Dark Fantasy para criação de personagens e simulação de combate RPG. Desenvolvida com HTML5 semântico, CSS3 e JS ES6+ (POO via classe Heroi), traz HUD clássico com barras de status, orbs em CSS puro, log de combate dinâmico e acessibilidade A11y/WCAG. Otimizado e responsivo para qualquer tela.</p>
+      <p>
+        <img src="https://img.shields.io/badge/POO-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
+        <img src="https://img.shields.io/badge/CSS-Dark_Fantasy_GUI-801414?style=flat-square" />
+        <img src="https://img.shields.io/badge/A11y-WCAG-8b5cf6?style=flat-square" />
+      </p>
+      <a href="https://github.com/LeticiaMS89">👉 Explorar o Repositório</a>
     </td>
     <td width="50%" valign="top">
       <h3>🛍️ ShopFamily Landing Page</h3>
-      <p>Landing page institucional em Dark Mode Premium com arquitetura CSS modular, menu mobile com acessibilidade ARIA, Scrollspy e Toasts interativos.</p>
+      <p>Landing page institucional e responsiva para o ShopFamily no estilo Dark Slate. Desenvolvida com HTML5 semântico, CSS3 e JS ES6+, conta com menu mobile acessível, cabeçalho inteligente, animações fluidas e feedback interativo com Toasts. Projeto otimizado para SEO, acessibilidade (WCAG) e alto desempenho em todos os dispositivos.</p>
       <p>
         <img src="https://img.shields.io/badge/HTML5-Sem%C3%A2ntico-E34F26?style=flat-square&logo=html5&logoColor=white" />
         <img src="https://img.shields.io/badge/CSS3-Variables-1572B6?style=flat-square&logo=css3&logoColor=white" />
@@ -95,41 +118,42 @@ PHILOSOPHY: "Código limpo não é apenas legível — é seguro, acessível e r
   </tr>
   <tr>
     <td width="50%" valign="top">
-      <h3>⚔️ Criador de Heróis — Interface RPG</h3>
-      <p>Painel estilo Dark Fantasy baseado em Programação Orientada a Objetos (POO), gerenciamento dinâmico de DOM, HUD em CSS puro e conformidade com leitores de tela.</p>
+      <h3>🛒 Lista de Compras PWA</h3>
+      <p>PWA de Lista de Compras 100% offline em HTML5, CSS3 e JS Vanilla. Conta com cálculo de totais em BRL, histórico via LocalStorage, instalação mobile/desktop e layout responsivo. Desenvolvido com foco em desempenho, acessibilidade e segurança contra XSS.</p>
       <p>
-        <img src="https://img.shields.io/badge/POO-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
-        <img src="https://img.shields.io/badge/CSS-Dark_Fantasy_GUI-801414?style=flat-square" />
-        <img src="https://img.shields.io/badge/A11y-WCAG-8b5cf6?style=flat-square" />
+        <img src="https://img.shields.io/badge/PWA-Offline--First-5A0FC8?style=flat-square" />
+        <img src="https://img.shields.io/badge/JavaScript-Vanilla-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
+        <img src="https://img.shields.io/badge/Security-Anti--XSS-red?style=flat-square" />
       </p>
       <a href="https://github.com/LeticiaMS89">👉 Explorar o Repositório</a>
     </td>
     <td width="50%" valign="top">
+      <h3>📦 Sistema de Estoque e Logística</h3>
+      <p>Sistema web leve e responsivo para gestão de estoque em tempo real, feito em HTML5, CSS3 e JS Vanilla. Conta com dashboard de indicadores, registro de entradas e saídas, alertas de saldo crítico, busca com debounce e exportação CSV. Possui persistência em LocalStorage e segurança contra XSS.</p>
+      <p>
+        <img src="https://img.shields.io/badge/Dashboard-Real--time-blue?style=flat-square" />
+        <img src="https://img.shields.io/badge/JavaScript-Vanilla-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
+        <img src="https://img.shields.io/badge/Data-CSV_Export-green?style=flat-square" />
+      </p>
+      <a href="https://github.com/LeticiaMS89">👉 Explorar o Repositório</a>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
       <h3>⚡ Code Generator</h3>
-      <p>Gerador de estruturas e templates de código limpo para APIs RESTful e aplicações Web em múltiplas linguagens (Node, Python, C#, Go).</p>
+      <p>Ferramenta para geração de templates de código prontos para produção em 7 linguagens (JS, Python, Java, C#, PHP, Go, Ruby). Oferece criação de Sites, APIs e Apps Mobile com opções de Login, BD, CRUD e prompt livre. Possui interface dark mode responsiva com funções de copiar e baixar arquivos.</p>
       <p>
         <img src="https://img.shields.io/badge/Clean_Code-Architecture-000000?style=flat-square" />
         <img src="https://img.shields.io/badge/JavaScript-DOM_Modular-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
       </p>
       <a href="https://github.com/LeticiaMS89/gerador-de-codigo">👉 Explorar o Repositório</a>
     </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <h3>🏆 Calculadora de Partidas Rankeadas</h3>
-      <p>Mecanismo de classificação contínua de elos para jogadores com tratamento de exceções, badges animados em neon e atributos <code>aria-live</code>.</p>
-      <p>
-        <img src="https://img.shields.io/badge/Algoritmo-Classifica%C3%A7%C3%A3o-6366f1?style=flat-square" />
-        <img src="https://img.shields.io/badge/CSS3-Neon_Glow-ec4899?style=flat-square" />
-      </p>
-      <a href="https://github.com/LeticiaMS89">👉 Explorar o Repositório</a>
-    </td>
     <td width="50%" valign="top">
       <h3>🎬 PlayFamily Streaming</h3>
-      <p>Single Page Application (SPA) para catálogo de mídia familiar com autenticação, navegação fluida e arquitetura modular de componentes.</p>
+      <p>PlayFamily: serviço de streaming full-stack (React + Node.js), responsivo, com autenticação, perfis dinâmicos personalizados e catálogo segmentado por gêneros e tipos de mídia.</p>
       <p>
+        <img src="https://img.shields.io/badge/React-Fullstack-61DAFB?style=flat-square&logo=react&logoColor=black" />
         <img src="https://img.shields.io/badge/Node.js-Express-43853D?style=flat-square&logo=node.js&logoColor=white" />
-        <img src="https://img.shields.io/badge/SPA-Vanilla_JS-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
       </p>
       <a href="https://github.com/LeticiaMS89">👉 Explorar o Repositório</a>
     </td>
