@@ -1,171 +1,142 @@
-# 💻 Olá! Bem-vindo(a) ao meu perfil
+<div align="center">
 
-<div align="left">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=18&pause=1000&color=F7DF1E&width=500&lines=Desenvolvedora+Software;Estudante+de+ADS+%40+Est%C3%A1cio;Full+Stack+JavaScript+%2B+Python;Entusiasta+de+UI%2FUX+%26+Clean+Code" alt="Typing SVG" />
+  <!-- Banner / Título Principal -->
+  <h1>✨ Leticia Moreira ✨</h1>
+  <h3>🚀 Desenvolvedora Full Stack Júnior | Análise e Desenvolvimento de Sistemas</h3>
+
+  <p align="center">
+    <i>Transformando ideias e rotinas em software elegante, funcional e gamificado.</i>
+  </p>
+
+  <!-- Badges de Status e Redes -->
+  <p align="center">
+    <a href="https://github.com/LeticiaMS89">
+      <img src="https://img.shields.io/github/followers/LeticiaMS89?label=Seguidores&style=for-the-badge&color=6366f1&logo=github" alt="Followers Badge">
+    </a>
+    <a href="https://linkedin.com/in/leticiamoreina">
+      <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge">
+    </a>
+    <img src="https://img.shields.io/badge/Status-Disponível_para_Projetos-emerald?style=for-the-badge" alt="Status Badge">
+  </p>
+
 </div>
 
-> **"Disciplina hoje, liberdade amanhã!"** ✨
-
-Sou uma **Desenvolvedora de Software / Front-End** apaixonada por criar interfaces incríveis, automatizar processos e construir experiências de usuário memoráveis. Acredito que código limpo, lógica estruturada e design inteligente transformam ideias em realidade.
-
 ---
 
-## 🎯 Sobre Mim
+## 🎮 Player Profile: `LeticiaMS89`
 
-- 🎓 Estou cursando **Análise e Desenvolvimento de Sistemas (ADS)** na Estácio, onde aprofundo meus conhecimentos em engenharia de software e arquitetura de sistemas.
-- 🛣️ Venho de uma trajetória sólida no **setor de logística**, o que me deu uma visão analítica aguçada, foco em eficiência, resolução de problemas complexos e otimização de processos.
-- 🚀 Atualmente, meu foco está no desenvolvimento web moderno (Full Stack com JavaScript, React 19 e Node.js) e na criação de soluções com Python e POO.
+```yaml
+Classe: Full Stack Developer
+Subclasse: UI/UX & Gamification Specialist
+Foco Atual: Aplicações Web, PWA, APIs RESTful e Soluções com Inteligência Artificial
+Localização: São Paulo, Brasil 🇧🇷
+Filosofia: "Clean Code, usabilidade impecável e código que resolve problemas reais."
+```
 
----
-
-## 🛠️ Tecnologias & Ferramentas
+## ⚡ Tech Stack & Ferramentas
 
 <div align="center">
 
-![HTML5](https://img.shields.io/badge/HTML5-E34C26?style=for-the-badge&logo=html5&logoColor=white)
+### 💻 Front-End & Mobile
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![React 19](https://img.shields.io/badge/React_19-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
-![NodeJS](https://img.shields.io/badge/Node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
-![Express](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge&logo=express&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![PWA](https://img.shields.io/badge/PWA-5A0FC8?style=for-the-badge&logo=pwa&logoColor=white)
+
+### ⚙️ Back-End, Banco de Dados & Serviços
+![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
+![Express](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![REST API](https://img.shields.io/badge/REST_API-025E8D?style=for-the-badge&logo=api&logoColor=white)
+
+### 🛠️ Devops, Análise & Ferramentas
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
+![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+![Excel](https://img.shields.io/badge/Excel_Copilot-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
 
 </div>
 
-### 🌐 Front-End & Web
-- **HTML5 & CSS3** - Estrutura semântica, layouts responsivos (Flexbox/Grid), animações fluidas e design em Dark Mode.
-- **JavaScript (ES6+)** - Interatividade, manipulação ativa de DOM, lógica de POO (Classes) e consumo de APIs.
-- **React 19 & Vite** - Construção de interfaces modulares, SPAs reativas e alto desempenho de build com Vite e React Router v7.
-
-### ⚙️ Back-End, Automação & Ferramentas
-- **Node.js & Express** - Criação de APIs REST, rotas, integração com middlewares (CORS) e arquitetura cliente-servidor.
-- **Python & Automação** - Criação de scripts para otimização de tarefas, lógica de programação e manipulação de dados.
-- **Git, GitHub & ESLint** - Controle de versão distribuído, padronização de código, análise estática e boas práticas de commit.
-
 ---
 
-## 📌 Projetos em Destaque
+## 🌟 Projetos em Destaque
 
-<table>
+<table width="100%">
   <tr>
-    <td width="50%">
-      <h3 align="center">🎬 PlayFamily</h3>
-      <p>Aplicação Full Stack para streaming e gerenciamento de mídias familiares com arquitetura SPA e API REST em Node.js.</p>
-      <p><b>Techs:</b> React 19, Vite, React Router v7, Node.js, Express, CORS, ESLint.</p>
-      <p align="center">
-        <a href="https://github.com/LeticiaMS89/streaming-playfamily">📂 Ver Repositório</a>
+    <td width="50%" valign="top">
+      <h3>🏠 Casa em Ordem / FamilyTask</h3>
+      <p>PWA completo de gestão familiar com conquistas gamificadas, metas diárias de hidratação, controle de tarefas e sincronização em tempo real.</p>
+      <p>
+        <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
+        <img src="https://img.shields.io/badge/Tailwind-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white" />
+        <img src="https://img.shields.io/badge/PWA-5A0FC8?style=flat-square" />
       </p>
+      <a href="https://github.com/LeticiaMS89/casa-em-ordem">👉 Ver Repositório</a>
     </td>
-    <td width="50%">
-      <h3 align="center">⚡ Gerador de Código Inteligente</h3>
-      <p>Ferramenta web para geração instantânea de templates de código prontos para produção em 7 linguagens com suporte a prompt livre.</p>
-      <p><b>Techs:</b> JavaScript ES6+, HTML5, CSS3 (Dark Mode), Font Awesome.</p>
-      <p align="center">
-        <a href="https://github.com/LeticiaMS89/gerador-de-codigo">📂 Ver Repositório</a>
+    <td width="50%" valign="top">
+      <h3>🎬 PlayFamily Streaming</h3>
+      <p>Single Page Application (SPA) para streaming de mídia familiar com catálogo interativo, autenticação e arquitetura orientada a componentes.</p>
+      <p>
+        <img src="https://img.shields.io/badge/Node.js-43853D?style=flat-square&logo=node.js&logoColor=white" />
+        <img src="https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white" />
+        <img src="https://img.shields.io/badge/Frontend-Modern-blue?style=flat-square" />
       </p>
+      <a href="https://github.com/LeticiaMS89">👉 Ver Repositório</a>
     </td>
   </tr>
   <tr>
-    <td width="50%">
-      <h3 align="center">🤖 Desafio Criativo: Prompts com IA</h3>
-      <p>Resolução estruturada de engenharia de prompts da DIO. Criação de comandos otimizados e com foco em transição de carreira para ADS.</p>
-      <p><b>Techs:</b> Engenharia de Prompts (IA), Markdown, GitHub.</p>
-      <p align="center">
-        <a href="https://github.com/LeticiaMS89/desafio-prompt.md">📂 Ver Repositório</a>
+    <td width="50%" valign="top">
+      <h3>⚔️ Criador de Heróis (RPG)</h3>
+      <p>Interface de RPG no estilo Dark Fantasy com cálculo automático de stats, HUD customizado e classificação dinâmica de XP/patente do personagem.</p>
+      <p>
+        <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
+        <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" />
+        <img src="https://img.shields.io/badge/JS_ES6+-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
       </p>
+      <a href="https://github.com/LeticiaMS89">👉 Ver Repositório</a>
     </td>
-    <td width="50%">
-      <h3 align="center">🛍️ ShopFamily</h3>
-      <p>Landing page institucional de alta conversão para e-commerce familiar. Foco em UX/UI sofisticado em Dark Slate e microinterações.</p>
-      <p><b>Techs:</b> HTML5 Semântico, CSS3 (Animações puras, Flexbox), Google Fonts.</p>
-      <p align="center">
-        <a href="https://github.com/LeticiaMS89">📂 Ver Repositório</a>
+    <td width="50%" valign="top">
+      <h3>⚙️ Gerador de Código</h3>
+      <p>Ferramenta interativa para geração automática de templates e estruturas iniciais para APIs e projetos web em múltiplas linguagens.</p>
+      <p>
+        <img src="https://img.shields.io/badge/Clean_Code-000000?style=flat-square" />
+        <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
       </p>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%">
-      <h3 align="center">⚔️ Criador de Heróis — Interface RPG</h3>
-      <p>Aplicação imersiva estilo Dark Fantasy para criação de heróis utilizando Programação Orientada a Objetos (POO) e manipulação do DOM.</p>
-      <p><b>Techs:</b> JavaScript (ES6 Classes), CSS3 Puro (Orbs/Gradientes), HTML5.</p>
-      <p align="center">
-        <a href="https://github.com/LeticiaMS89">📂 Ver Repositório</a>
-      </p>
-    </td>
-    <td width="50%">
-      <h3 align="center">📦 Sistema de Estoque e Logística</h3>
-      <p>Aplicação web para otimização de fluxo logístico, registro dinâmico de movimentações e inventário atualizado em tempo real.</p>
-      <p><b>Techs:</b> HTML5, CSS3 (Flexbox), JavaScript (Vanilla).</p>
-      <p align="center">
-        <a href="https://github.com/LeticiaMS89/sistema-de-estoque">📂 Ver Repositório</a>
-      </p>
+      <a href="https://github.com/LeticiaMS89/gerador-de-codigo">👉 Ver Repositório</a>
     </td>
   </tr>
 </table>
 
 ---
 
-## 📊 Estatísticas & Destaques
+## 📊 Estatísticas do GitHub
 
 <div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=LeticiaMS89&show_icons=true&theme=dracula&include_all_commits=true&count_private=true" alt="Estatísticas do GitHub" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LeticiaMS89&layout=compact&theme=dracula&hide=html,css" alt="Linguagens Mais Utilizadas" />
+</div>
 
-  <!-- Badges Nativas de Métricas -->
-  <a href="https://github.com/LeticiaMS89">
-    <img src="https://img.shields.io/github/stars/LeticiaMS89?style=for-the-badge&logo=github&color=8A2BE2&labelColor=181824" alt="Stars" />
-    <img src="https://img.shields.io/github/followers/LeticiaMS89?style=for-the-badge&logo=github&color=8A2BE2&labelColor=181824" alt="Followers" />
-    <img src="https://img.shields.io/github/directory-file-count/LeticiaMS89/LeticiaMS89?style=for-the-badge&logo=github&color=8A2BE2&labelColor=181824&label=profile" alt="Profile" />
-  </a>
+<br />
 
-  <br/><br/>
-
-  <!-- Tabela Estilizada com Resumo Técnico -->
-  <table>
-    <tr>
-      <td align="center" width="33%">
-        <b>⚡ Foco Principal</b><br/>
-        <sub>Desenvolvimento Full Stack & Sistemas</sub>
-      </td>
-      <td align="center" width="33%">
-        <b>💻 Stack Base</b><br/>
-        <sub>JavaScript, React, Node.js, Python</sub>
-      </td>
-      <td align="center" width="33%">
-        <b>🚀 Repositórios Ativos</b><br/>
-        <sub>PlayFamily, ShopFamily, Gerador, Sistema de Estoque, Desafios IA</sub>
-      </td>
-    </tr>
-  </table>
-
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=LeticiaMS89&theme=dracula" alt="Sequência de Commits" />
 </div>
 
 ---
 
-## 🌟 O Que Você Encontrará Aqui
+## 🤝 Vamos nos Conectar?
 
-- 🎨 Projetos front-end e full stack criativos, responsivos e performáticos
-- ⚙️ Scripts de automação e soluções estruturadas com POO
-- 📚 Exploração contínua e aplicação de novas tecnologias
-- 🚀 Código limpo, componentizado, testado e bem documentado
+- 💼 **LinkedIn:** [Letícia Moreno](https://linkedin.com/in/leticiamoreina)
+- 📬 **Email:** Entre em contato direto pelo GitHub ou LinkedIn
+- 💻 **Projetos Abertos:** Aceito colaborações em projetos Web, PWAs e APIs
 
----
-
-## 📫 Vamos Conectar!
+<br />
 
 <div align="center">
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ltc-moreira-silva/)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:leticiamoreirasilva89@gmail.com)
-
+  <sub>Construído com ❤️ e bastante café por <b>Letícia Moreno</b></sub>
 </div>
 
----
-
-<div align="center">
-
-### ⭐ Se gostou de algum projeto, deixe uma estrela nos meus repositórios!
-
-*"A disciplina é o caminho para a liberdade"* 🚀
-
-</div>
