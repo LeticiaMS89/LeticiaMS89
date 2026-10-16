@@ -81,7 +81,7 @@ PHILOSOPHY: "Código limpo não é apenas legível — é seguro, acessível e r
         <img src="https://img.shields.io/badge/JS_ES6%2B-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
         <img src="https://img.shields.io/badge/Clean_Code-000000?style=flat-square" />
       </p>
-      <a href="https://github.com/LeticiaMS89/classificador-de-heroi.git">👉 Explorar o Repositório</a>
+      <a href="https://github.com/LeticiaMS89/classificador-de-heroi">👉 Explorar o Repositório</a>
     </td>
     <td width="50%" valign="top">
       <h3>🏆 Calculadora de Partidas Rankeadas</h3>
@@ -91,7 +91,7 @@ PHILOSOPHY: "Código limpo não é apenas legível — é seguro, acessível e r
         <img src="https://img.shields.io/badge/CSS3-Neon_Glow-ec4899?style=flat-square" />
         <img src="https://img.shields.io/badge/A11y-WCAG-8b5cf6?style=flat-square" />
       </p>
-      <a href="https://github.com/LeticiaMS89/calculadora-de-partidas-rankeadas.git">👉 Explorar o Repositório</a>
+      <a href="https://github.com/LeticiaMS89/calculadora-de-partidas-rankeadas">👉 Explorar o Repositório</a>
     </td>
   </tr>
   <tr>
@@ -103,7 +103,7 @@ PHILOSOPHY: "Código limpo não é apenas legível — é seguro, acessível e r
         <img src="https://img.shields.io/badge/CSS-Dark_Fantasy_GUI-801414?style=flat-square" />
         <img src="https://img.shields.io/badge/A11y-WCAG-8b5cf6?style=flat-square" />
       </p>
-      <a href="https://github.com/LeticiaMS89/criador-de-herois.git">👉 Explorar o Repositório</a>
+      <a href="https://github.com/LeticiaMS89/criador-de-herois">👉 Explorar o Repositório</a>
     </td>
     <td width="50%" valign="top">
       <h3>🛍️ ShopFamily Landing Page</h3>
@@ -113,7 +113,7 @@ PHILOSOPHY: "Código limpo não é apenas legível — é seguro, acessível e r
         <img src="https://img.shields.io/badge/CSS3-Variables-1572B6?style=flat-square&logo=css3&logoColor=white" />
         <img src="https://img.shields.io/badge/UX-Accessibility-green?style=flat-square" />
       </p>
-      <a href="https://github.com/LeticiaMS89/landing-page-shopfamily.git">👉 Explorar o Repositório</a>
+      <a href="https://github.com/LeticiaMS89/landing-page-shopfamily">👉 Explorar o Repositório</a>
     </td>
   </tr>
   <tr>
@@ -125,7 +125,7 @@ PHILOSOPHY: "Código limpo não é apenas legível — é seguro, acessível e r
         <img src="https://img.shields.io/badge/JavaScript-Vanilla-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
         <img src="https://img.shields.io/badge/Security-Anti--XSS-red?style=flat-square" />
       </p>
-      <a href="https://github.com/LeticiaMS89/lista-de-compra-pwa.git">👉 Explorar o Repositório</a>
+      <a href="https://github.com/LeticiaMS89/lista-de-compra-pwa">👉 Explorar o Repositório</a>
     </td>
     <td width="50%" valign="top">
       <h3>📦 Sistema de Estoque e Logística</h3>
@@ -135,7 +135,7 @@ PHILOSOPHY: "Código limpo não é apenas legível — é seguro, acessível e r
         <img src="https://img.shields.io/badge/JavaScript-Vanilla-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
         <img src="https://img.shields.io/badge/Data-CSV_Export-green?style=flat-square" />
       </p>
-      <a href="https://github.com/LeticiaMS89/sistema-de-estoque.git">👉 Explorar o Repositório</a>
+      <a href="https://github.com/LeticiaMS89/sistema-de-estoque">👉 Explorar o Repositório</a>
     </td>
   </tr>
   <tr>
@@ -146,7 +146,7 @@ PHILOSOPHY: "Código limpo não é apenas legível — é seguro, acessível e r
         <img src="https://img.shields.io/badge/Clean_Code-Architecture-000000?style=flat-square" />
         <img src="https://img.shields.io/badge/JavaScript-DOM_Modular-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
       </p>
-      <a href="https://github.com/LeticiaMS89/gerador-de-codigo.git">👉 Explorar o Repositório</a>
+      <a href="https://github.com/LeticiaMS89/gerador-de-codigo">👉 Explorar o Repositório</a>
     </td>
     <td width="50%" valign="top">
       <h3>🎬 PlayFamily Streaming</h3>
@@ -155,7 +155,7 @@ PHILOSOPHY: "Código limpo não é apenas legível — é seguro, acessível e r
         <img src="https://img.shields.io/badge/React-Fullstack-61DAFB?style=flat-square&logo=react&logoColor=black" />
         <img src="https://img.shields.io/badge/Node.js-Express-43853D?style=flat-square&logo=node.js&logoColor=white" />
       </p>
-      <a href="https://github.com/LeticiaMS89/streaming-playfamily.git">👉 Explorar o Repositório</a>
+      <a href="https://github.com/LeticiaMS89/streaming-playfamily">👉 Explorar o Repositório</a>
     </td>
   </tr>
 </table>
