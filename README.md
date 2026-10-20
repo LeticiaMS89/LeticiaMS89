@@ -73,15 +73,15 @@ PHILOSOPHY: "Código limpo não é apenas legível — é seguro, acessível e r
 <table width="100%">
   <tr>
     <td width="50%" valign="top">
-      <h3>⚔️ Classificador de Nível de Herói</h3>
-      <p>O Classificador de Heróis é uma aplicação web interativa que calcula e atribui patentes a aventureiros com base no XP acumulado. Desenvolvido com HTML5, CSS3 e JavaScript ES6+, possui interface temática de RPG, barra de progresso para o próximo nível, validações em tempo real, acessibilidade (WCAG) e arquitetura baseada em Clean Code.</p>
+      <h3>🏡 FamilyTask</h3>
+      <p>FamilyTask é um aplicativo para organizar tarefas em família. Permite distribuir atividades, acompanhar aprovações e progresso, oferecer recompensas e gerenciar mesadas e finanças, com recursos de gamificação para incentivar a participação de todos.</p>
       <p>
         <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
         <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" />
         <img src="https://img.shields.io/badge/JS_ES6%2B-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
         <img src="https://img.shields.io/badge/Clean_Code-000000?style=flat-square" />
       </p>
-      <a href="https://github.com/LeticiaMS89/classificador-de-heroi">👉 Explorar o Repositório</a>
+      <a href="https://github.com/LeticiaMS89/FamilyTask">👉 Explorar o Repositório</a>
     </td>
     <td width="50%" valign="top">
       <h3>🏆 Calculadora de Partidas Rankeadas</h3>
