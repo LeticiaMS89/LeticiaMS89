@@ -80,7 +80,7 @@ PHILOSOPHY: "Código limpo não é apenas legível — é seguro, acessível e r
         <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" />
         <img src="https://img.shields.io/badge/JS_ES6%2B-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
         <img src="https://img.shields.io/badge/Clean_Code-000000?style=flat-square" />
-        <img src="https://img.shields.io/badge/TypeScript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white" />
+        <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />
       </p>
       <a href="https://github.com/LeticiaMS89/FamilyTask">👉 Explorar o Repositório</a>
     </td>
